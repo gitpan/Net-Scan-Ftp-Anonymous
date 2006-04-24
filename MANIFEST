@@ -1,0 +1,7 @@
+Changes
+Copying
+Makefile.PL
+MANIFEST
+README
+t/Anonymous.t
+lib/Net/Scan/Ftp/Anonymous.pm
