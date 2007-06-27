@@ -8,7 +8,7 @@ use Carp;
 use IO::Socket;
 use Net::FTP;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 $VERSION = eval $VERSION;
 
 __PACKAGE__->mk_accessors( qw(host port timeout directory user password verbose debug));
@@ -95,9 +95,9 @@ The constructor. Given a host returns a L<Net::Scan::Ftp::Anonymous> object:
     host      => "127.0.0.1",
     port      => 21,
     timeout   => 5,
-    directory => 'test007';
-    user      => 'anonymous';
-    password  => 'postmaster@127.0.0.1';
+    directory => 'test007',
+    user      => 'anonymous',
+    password  => 'postmaster@127.0.0.1',
     verbose   => 1,
     debug     => 0 
   });

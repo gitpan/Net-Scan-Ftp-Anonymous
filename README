@@ -1,4 +1,4 @@
-Net-Scan-Ftp-Anonymous version 0.01
+Net-Scan-Ftp-Anonymous version 0.02
 ===================================
 
 This module permit to scan for anonymous read/write access FTP servers.

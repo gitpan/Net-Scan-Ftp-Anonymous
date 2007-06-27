@@ -1,4 +1,7 @@
 Revision history for Perl extension Net-Scan-Ftp-Anonymous.
 
+0.02  Wed Jun 27 09:12:42 2007
+	- fix description
+
 0.01  Thu Apr 13 18:32:12 2006
 	- first release
